@@ -1,0 +1,9 @@
+{
+  "name": "genpark-page-rank-power-iteration-centrality-skill",
+  "version": "1.0.0",
+  "description": "PageRank random walk and power iteration centrality engine scoring authority and influence across interconnected agent networks.",
+  "category": "Service",
+  "entrypoint": "client.py",
+  "mcp": "mcp_server.py",
+  "author": "GenPark AI"
+}
